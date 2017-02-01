@@ -1,0 +1,22 @@
+{
+  "name": "angularjsmaster",
+  "version": "1.0.0",
+  "description": "mastering angularjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "*",
+    "jquery": "*",
+    "angularjs": "*"
+  },
+  "author": "louai drissi",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
